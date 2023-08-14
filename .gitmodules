@@ -1,0 +1,3 @@
+[submodule "Algorithms/Sorting-Algorithms"]
+	path = Algorithms/Sorting-Algorithms
+	url = https://github.com/mkbcodes/Sorting-Algorithms.git
